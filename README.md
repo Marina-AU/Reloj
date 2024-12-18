@@ -1,3 +1,3 @@
 # Projecto rejoj digital
 
-## Este es mi primer proyecto en python, busco seguir abansado en la programacion.
+## Hola a todos este es mi primer proyecto en python despues de un curso, busco seguir abansado en la programacion.
